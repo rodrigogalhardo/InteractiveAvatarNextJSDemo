@@ -79,3 +79,4 @@ You can also set the speed at which the Interactive Avatar speaks by passing in 
 
 Please read our Interactive Avatar 101 article for more information on pricing and how to increase your concurrent session limit: https://help.heygen.com/en/articles/9182113-interactive-avatar-101-your-ultimate-guide
 # streamline-ai-interactive-avatar
+# streamline-ai-interactive-avatar
