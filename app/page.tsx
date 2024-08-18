@@ -11,11 +11,11 @@ export default function App() {
       label: "Demo",
       content: <InteractiveAvatar />,
     },
-    {
-      id: "code",
-      label: "Code",
-      content: <InteractiveAvatarCode />,
-    },
+    // { // Descomentar caso precise
+    //   id: "code",
+    //   label: "Code",
+    //   content: <InteractiveAvatarCode />,
+    // },
   ];
 
   return (
